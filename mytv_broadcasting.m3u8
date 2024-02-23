@@ -1,16 +1,16 @@
 #EXTM3U x-tvg-url="https://aqfadtv.xyz/epg" refresh="1440" max-conn="1" refresh="24"
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg.png",TV1
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="101" tvg-id="TV1" tvg-chno="101" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg.png",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="102" tvg-id="102" tvg-chno="102" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV2.jpg",TV2
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="102" tvg-id="TV2" tvg-chno="102" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV2.jpg",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420323:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",TV3
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="103" tvg-id="TV3" tvg-chno="103" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420323:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",TV3
 #EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056637&autoplay=1&mute=0
 https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="501" tvg-id="AstroAwani.my" tvg-chno="501" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png?20240208030042",Astro Awani 
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="501" tvg-id="AstroAwani" tvg-chno="501" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png?20240208030042",Astro Awani 
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
 #EXTINF:-1 group-title="Movie" ch-number="411" tvg-chno="411" tvg-id="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png",HBO
@@ -47,7 +47,7 @@ https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 https://live-streams-ssai-01.tonton.com.my/live/2020783a-0303-401a-9c92-b7c3c9108c0b/cmaf.isml/.m3u8
 
-#EXTINF:-1 tvg-id="BBCNewsAsiaPacific.uk" tvg-logo="https://seeklogo.com/images/B/bbc-news-logo-8648ABD044-seeklogo.com.png",BBC News Asia Pacific (720p)
+#EXTINF:-1 tvg-id="BBCNews" tvg-logo="https://seeklogo.com/images/B/bbc-news-logo-8648ABD044-seeklogo.com.png",BBC News Asia Pacific (720p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="110" tvg-id="110" tvg-chno="110" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TVOKEY.jpg",OKEY
