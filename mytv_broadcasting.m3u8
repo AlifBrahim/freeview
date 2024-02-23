@@ -20,6 +20,9 @@ http://fpt.vthanhtivi.pw/hbo/index.m3u8
 http://38.96.178.201:80/live/DisneyXD/index.m3u8
 #EXTINF:-1 group-title="Kids" ch-number="615" tvg-chno="615" tvg-id="DisneyChannelEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png",Disney Channel
 http://38.96.178.201/live/Disney/index.m3u8
+#EXTINF:-1 group-title="Kids" ch-number="616" tvg-chno="616" tvg-id="CartoonNetworkScandinavia.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",Cartoon Network
+#EXTVLCOPT:http-referrer=http://89.254.128.5:22280/
+http://89.254.128.5:22280/cartoon_network/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN.vn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/AXN_HD_Logo_2015.png/1200px-AXN_HD_Logo_2015.png",AXN HD
 http://fpt.vthanhtivi.pw/axn/index.m3u8
@@ -52,12 +55,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="https://i.ibb.co/vHcWdsP/image.png",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
-
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="114" tvg-id="114" tvg-chno="114" tvg-logo="https://api.mana2.my/image/image_gallery?img_id=198648103",TV Alhijrah
-https://live.mana2.my/TvAlhijrah/index.m3u8|User-Agent=Mozilla
-
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="116" tvg-id="116" tvg-chno="116" tvg-logo="https://api.mana2.my/image/image_gallery?img_id=198649901",Suke TV
-https://live.mana2.my/SukeTv/index.m3u8|User-Agent=Mozilla
 
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="121" tvg-id="121" tvg-chno="121" tvg-logo="https://api.mana2.my/image/image_gallery?img_id=200384923",Bernama
 https://ythls-v2.onrender.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
