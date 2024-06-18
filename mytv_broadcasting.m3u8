@@ -14,7 +14,7 @@ https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
 #EXTINF:-1 group-title="Movie" ch-number="411" tvg-chno="411" tvg-id="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png",HBO
-http://fpt.vthanhtivi.pw/hbo/index.m3u8
+https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
 
 #EXTINF:-1 group-title="Kids" ch-number="617" tvg-chno="617" tvg-id="DisneyXDEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png?20110817124654", Disney XD
 http://38.96.178.201:80/live/DisneyXD/index.m3u8
@@ -25,7 +25,7 @@ http://38.96.178.201/live/Disney/index.m3u8
 http://89.254.128.5:22280/cartoon_network/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN.vn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/AXN_HD_Logo_2015.png/1200px-AXN_HD_Logo_2015.png",AXN HD
-http://fpt.vthanhtivi.pw/axn/index.m3u8
+https://z88.ubtvfans.com/live/rx1/1066/917914fbe52d479116c9ab03e3045dca/index.m3u8
 
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="106" tvg-id="106" tvg-chno="106" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat
 #EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056648&autoplay=1&mute=0
